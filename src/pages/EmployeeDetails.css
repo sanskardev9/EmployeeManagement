@@ -1,0 +1,41 @@
+.employee-details {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .employee-details h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .employee-info, .contact-methods {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .employee-info p, .contact-method p {
+    margin: 10px 0;
+  }
+  
+  .contact-method {
+    background-color: #e7f3ff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-method p {
+    margin: 5px 0;
+  }
+  
+  strong {
+    color: #555;
+  }
+  

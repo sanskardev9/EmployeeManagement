@@ -1,0 +1,41 @@
+.employee-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .button-container {
+    display: flex;
+    gap: 12px;
+  }
+  
+  
+  .employee-page h2 {
+    text-align: center;
+  }
+  
+  .employee-page p {
+    margin-bottom: 10px;
+  }
+  
+  .employee-page .address,
+  .employee-page .contact-methods {
+    margin-top: 20px;
+  }
+  
+  .employee-page .contact-methods ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .employee-page .contact-methods li {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .employee-page .contact-methods li:last-child {
+    border-bottom: none;
+  }
+  
